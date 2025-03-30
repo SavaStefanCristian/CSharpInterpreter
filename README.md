@@ -20,7 +20,7 @@ Ensure you have .NET SDK installed. Then, install ANTLR4.
 
 ## Example Code (input.txt)
 
-```
+```c
 int addIntegers(int first, int second)
 {
  return first + second;
