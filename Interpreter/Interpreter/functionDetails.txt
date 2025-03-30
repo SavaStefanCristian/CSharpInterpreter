@@ -1,0 +1,32 @@
+Funtion: addIntegers
+  Type: iterative
+  Return Type: int
+  Parameters: int first, int second
+  Local variables:
+  Control Structures:
+
+Funtion: divideIntegers
+  Type: iterative
+  Return Type: float
+  Parameters: int first, int second
+  Local variables:
+  Control Structures:
+    <if, 7>
+
+Funtion: main
+  Type: main
+  Return Type: int
+  Parameters: 
+  Local variables:
+    int myFirstVariable
+    int mySecondVariable
+    int myThirdVariable
+    int i
+    string myString
+    int temp
+    float myFloat
+  Control Structures:
+    <for, 19>
+    <if, 24>
+    <else, 28>
+
